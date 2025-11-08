@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/rerum-illo-minima-esse",
-  "version": "18.54.493",
+  "version": "18.54.494",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -428,5 +428,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/rerum-illo-minima-esse/issues"
   },
-  "packageManager": "yarn@4.10.3"
+  "packageManager": "yarn@4.11.0"
 }
